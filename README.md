@@ -1,7 +1,7 @@
-# PortfolioHUB - Entrega Intermediária
+# PortfolioHUB
 
 ## Sobre o Projeto
-Este repositório foi desenvolvido como parte da atividade de **Entrega Intermediária** da disciplina de **Bootcamp**, ministrada pelo professor Marcelo Carboni no Centro Universitário de Brasília (CEUB).
+Este repositório foi desenvolvido como parte da atividade de **Entrega final** da disciplina de **Bootcamp**, ministrada pelo professor Marcelo Carboni no Centro Universitário de Brasília (CEUB).
 
 O objetivo principal do projeto é criar um repositório profissional utilizando Git e GitHub, aplicando conceitos de versionamento, organização de projetos, documentação e integração com plataformas profissionais como GitHub Pages e LinkedIn.
 
